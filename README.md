@@ -14,3 +14,9 @@ if err != nil {
 }
 fmt.Println(text)
 ```
+## Special Thanks
+
+A lot of thanks to https://github.com/richardlehane/mscfb and its author Richard Lehane. It helped a lot with parsing Microsoft old binary format.
+
+Also I am grateful to Alex Rembish with [PHP text extraction implementation](https://github.com/rembish/TextAtAnyCost).
+
